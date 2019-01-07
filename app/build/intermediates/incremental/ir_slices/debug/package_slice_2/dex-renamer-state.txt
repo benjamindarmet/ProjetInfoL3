@@ -1,0 +1,4 @@
+#Sat Jan 05 16:20:28 CET 2019
+base.0=/home/ben/AndroidStudioProjects/RenderScript/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex

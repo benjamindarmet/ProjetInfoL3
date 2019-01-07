@@ -1,0 +1,4 @@
+#Fri Oct 19 15:54:38 CEST 2018
+base.0=/autofs/netapp/travail/bdarmet/RenderScript/app/build/intermediates/transforms/dexMerger/debug/48
+path.0=classes.dex
+renamed.0=classes.dex

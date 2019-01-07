@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Oct 20 19:33:06 CEST 2018
+0.baseType=DIRECTORY
+0.base=/home/ben/AndroidStudioProjects/RenderScript/app/build/intermediates/transforms/dex/release/0
+0.path=classes.dex
+0.set=DEX
+count=1
